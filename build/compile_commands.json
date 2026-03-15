@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/code4/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -isystem C:/msys64/mingw64/include/opencv4 -g -o CMakeFiles\\ObjectDetection.dir\\main.cpp.obj -c C:\\code4\\main.cpp",
+  "file": "C:/code4/main.cpp",
+  "output": "C:/code4/build/CMakeFiles/ObjectDetection.dir/main.cpp.obj"
+}
+]
