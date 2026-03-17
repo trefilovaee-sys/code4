@@ -56,9 +56,9 @@ int main() {
     
     //если не загрузилось, создаем простое изображение
     if (img.empty()) {
-        img = Mat(400, 600, CV_8UC3, Scalar(245, 220, 240));
-        rectangle(img, Point(200, 150), Point(400, 250), Scalar(255, 0, 255), -1);
-        putText(img, "vibe", Point(250, 220), FONT_HERSHEY_SIMPLEX, 1, Scalar(255, 255, 255), 2);
+        img = Mat(400, 600, CV_8UC3, Scalar(226, 100, 80));
+        rectangle(img, Point(200, 150), Point(450, 250), Scalar(226, 92, 60), -1);
+        putText(img, "good vibes", Point(250, 220), FONT_HERSHEY_SIMPLEX, 1, Scalar(255, 255, 255), 2);
     }
     
     if (img.cols > 800) {
